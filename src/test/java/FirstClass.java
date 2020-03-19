@@ -3,7 +3,6 @@ public class FirstClass {
         System.out.println("brave new world");
         
         
-        
         System.out.println("change one");
     }
 }
